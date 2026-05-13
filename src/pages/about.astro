@@ -6,7 +6,7 @@ import Footer from '../components/Footer.astro';
 const pageTitle = "About Me";
 
 const identity = {
-  firstName: "Anthony",
+  firstName: "Anthony M.",
   country: "Canada",
   occupation: "Frontend Developer",
   hobbies: ["hiking", "programming", "cooking", "building websites"],
@@ -64,5 +64,8 @@ const textCase = "uppercase";
 
         {goal === 3 ? <p>My goal is to finish in 3 days.</p> : <p>My goal is not 3 days.</p>}
         <Footer />
+        <script>
+          import '../scripts/menu.js'
+        </script>
 	</body>
 </html>
