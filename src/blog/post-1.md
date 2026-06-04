@@ -5,7 +5,7 @@ description: 'This is the first post of my new Astro blog.'
 author: 'Anthony H.'
 image:
     url: 'https://docs.astro.build/assets/rose.webp'
-    alt: 'The Astro logo on a dark background with a pink glow.'
+    alt: 'The Astro logo on a darker background with a pink glow.'
 tags: ["astro", "blogging", "learning in public"]
 ---
 ## What I've accomplished
