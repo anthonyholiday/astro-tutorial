@@ -1,6 +1,6 @@
 // @ts-check
 import { defineConfig } from 'astro/config';
-
+import tailwindcss from '@tailwindcss/vite';
 import preact from '@astrojs/preact';
 import vercel from '@astrojs/vercel';
 
@@ -8,5 +8,8 @@ import vercel from '@astrojs/vercel';
 export default defineConfig({
   integrations: [preact()],
   adapter: vercel(),
-  site: "https://astro-tutorial-nine-henna.vercel.app"
+  site: "https://astro-tutorial-nine-henna.vercel.app",
+  vite: {
+    plugins: [tailwindcss()],
+  },
 });
