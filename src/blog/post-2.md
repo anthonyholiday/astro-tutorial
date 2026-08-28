@@ -11,4 +11,4 @@ tags: ["astro", "blogging", "learning in public", "successes", "no code"]
 ---
 After a successful first week learning Astro, I decided to try some more. I wrote and imported a small component from memory!
 
-## This is my post
+## This is my post, I am updadting it 
