@@ -11,4 +11,4 @@ tags: ["astro", "blogging", "learning in public", "successes", "no code"]
 ---
 After a successful first week learning Astro, I decided to try some more. I wrote and imported a small component from memory!
 
-## I have a goal to work at Webflow when we move to the US. Or just start my own company.
+## I have a goal to work at Webflow when we move to the US. Or just start my own company. Looking forward to Japan.
