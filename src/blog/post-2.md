@@ -11,4 +11,4 @@ tags: ["astro", "blogging", "learning in public", "successes", "no code"]
 ---
 After a successful first week learning Astro, I decided to try some more. I wrote and imported a small component from memory!
 
-## Testing rwiting  apost. SO gla it's the weekend. Dinner with Alex last night. Trying to sell all our shit. People buying stuff, but also not buying stuff. Annoying. People not showing up, calssic. Sold the shoe racks, tha'st nice to get rid of.
+## Testing rwiting  apost. SO gla it's the weekend. Dinner with Alex last night. Trying to sell all our shit. People buying stuff, but also not buying stuff. Annoying. People not showing up, calssic. Sold the shoe racks, tha'st nice to get rid of. Selling lots!
