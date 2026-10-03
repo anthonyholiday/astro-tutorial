@@ -11,4 +11,4 @@ tags: ["astro", "blogging", "learning in public", "successes", "no code"]
 ---
 After a successful first week learning Astro, I decided to try some more. I wrote and imported a small component from memory!
 
-## Left Portugal yesterday, sad and glad at the same time. Flights were smooth, it feels great to arrive here.
+## Left Portugal yesterday, sad and glad at the same time. Flights were smooth, it feels great to arrive here. Place is good, but we don't have keys for it which is annoying.
