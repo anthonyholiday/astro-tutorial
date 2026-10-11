@@ -13,4 +13,4 @@ After a successful first week learning Astro, I decided to try some more. I wrot
 
 ## Left Portugal yesterday, sad and glad at the same time. Flights were smooth, it feels great to arrive here. Place is good, but we don't have keys for it which is annoying. First day in Tokyo. They want us to pay for the keys as we "lost" them, which is shitty. Enjoying exploring Tokyo, not stoked to go back to work. Work wasn't bad, didn't have too many tickets in the day, so went exploring in Kichijoji as well. Work sin't bad from Japan, been just mostly doing tickets. Met with Danica yesterday, so great to see her. Also met with her the following night and had dinner at an izakaya which was great.
 
-# Danica left this morning. WE've got 3 more days to epxlore before I go back to work.
+# Danica left this morning. WE've got 3 more days to epxlore before I go back to work. Diem and I spent the whole day out yesterday exploring ginza and going to the seiko museum.
