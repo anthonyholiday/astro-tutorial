@@ -16,3 +16,5 @@ After a successful first week learning Astro, I decided to try some more. I wrot
 # Danica left this morning. WE've got 3 more days to epxlore before I go back to work. Diem and I spent the whole day out yesterday exploring ginza and going to the seiko museum.
 
 ### Another day out walking through Yoyogi, also the park. Great day, great walk. Went to Montbell to look at the pants. Also went to Shunjuku area again.
+
+# last day off before goign back to work. Went to Nakano Broadway, then to PBJs, then to Blue Elephant and Nakameguro.
