@@ -20,3 +20,5 @@ After a successful first week learning Astro, I decided to try some more. I wrot
 # last day off before goign back to work. Went to Nakano Broadway, then to PBJs, then to Blue Elephant and Nakameguro.
 
 # first day back at work, sss as per
+
+# annoying how Diem always waits for me to be the first person to do somehting.
