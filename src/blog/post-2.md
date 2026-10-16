@@ -23,3 +23,5 @@ After a successful first week learning Astro, I decided to try some more. I wrot
 
 # annoying how Diem always waits for me to be the first person to do somehting.
 # Took out the trash for the first itme uyesterady.
+
+# Big work days the last days. Not loving BX.
