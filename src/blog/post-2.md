@@ -22,3 +22,4 @@ After a successful first week learning Astro, I decided to try some more. I wrot
 # first day back at work, sss as per
 
 # annoying how Diem always waits for me to be the first person to do somehting.
+# Took out the trash for the first itme uyesterady.
