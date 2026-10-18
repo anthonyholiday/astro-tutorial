@@ -25,3 +25,5 @@ After a successful first week learning Astro, I decided to try some more. I wrot
 # Took out the trash for the first itme uyesterady.
 
 # Big work days the last days. Not loving BX.
+
+# Exploring more of Ginza, the fish market, and all around akihabara.
