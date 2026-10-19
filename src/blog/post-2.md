@@ -28,3 +28,5 @@ After a successful first week learning Astro, I decided to try some more. I wrot
 
 # Exploring more of Ginza, the fish market, and all around akihabara.
 # Sunday in Kichijoji, Koenji, and Shimotkita
+
+# Been playing with GRok Bot, been really satisfying.
