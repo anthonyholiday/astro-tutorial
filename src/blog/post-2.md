@@ -12,3 +12,5 @@ tags: ["astro", "blogging", "learning in public", "successes", "no code"]
 After a successful first week learning Astro, I decided to try some more. I wrote and imported a small component from memory!
 
 ## Kyoto this weekend!
+
+## Updated pricing on Sitka site. Woul be great to get more work for Diem.
