@@ -14,3 +14,5 @@ After a successful first week learning Astro, I decided to try some more. I wrot
 ## Kyoto this weekend!
 
 ## Updated pricing on Sitka site. Woul be great to get more work for Diem.
+
+## Kyoto today!
