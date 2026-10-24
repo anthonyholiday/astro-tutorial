@@ -16,3 +16,5 @@ After a successful first week learning Astro, I decided to try some more. I wrot
 ## Updated pricing on Sitka site. Woul be great to get more work for Diem.
 
 ## Kyoto today!
+
+## Worked a bit in Kyoto last night, now 2x days in Kyoto to explore. Stkoed.g
