@@ -20,3 +20,5 @@ After a successful first week learning Astro, I decided to try some more. I wrot
 ## Worked a bit in Kyoto last night, now 2x days in Kyoto to explore. Stkoed.g
 
 ## Spent the day aexploring Kyoto.
+
+## Back from Kyoto last night. Tired but, nice to be home.
