@@ -22,3 +22,5 @@ After a successful first week learning Astro, I decided to try some more. I wrot
 ## Spent the day aexploring Kyoto.
 
 ## Back from Kyoto last night. Tired but, nice to be home.
+
+## Feeling a bit under the weather, slept in a lot.
