@@ -26,3 +26,5 @@ After a successful first week learning Astro, I decided to try some more. I wrot
 ## Feeling a bit under the weather, slept in a lot.
 
 ## Been working a lot this week, sent emails to past clients about migrating their sites.
+
+## Slept terrible. So tired.
