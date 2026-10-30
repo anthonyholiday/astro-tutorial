@@ -30,3 +30,4 @@ After a successful first week learning Astro, I decided to try some more. I wrot
 ## Slept terrible. So tired.
 
 ## Maybe Kamekochi this weekend?
+## Going to Nagano this weekend.
