@@ -31,3 +31,5 @@ After a successful first week learning Astro, I decided to try some more. I wrot
 
 ## Maybe Kamekochi this weekend?
 ## Going to Nagano this weekend.
+
+## At the onsen, so great.
