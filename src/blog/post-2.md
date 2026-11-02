@@ -33,3 +33,5 @@ After a successful first week learning Astro, I decided to try some more. I wrot
 ## Going to Nagano this weekend.
 
 ## At the onsen, so great.
+
+## Back in Tokyo, wish we could've stayed one more night.
