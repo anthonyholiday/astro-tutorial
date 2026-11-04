@@ -37,3 +37,5 @@ After a successful first week learning Astro, I decided to try some more. I wrot
 ## Back in Tokyo, wish we could've stayed one more night.
 
 ## Feeling rested from our trip over the weekend
+
+## Had a good chat with clay re: good day.
