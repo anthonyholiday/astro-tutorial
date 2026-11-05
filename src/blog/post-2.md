@@ -41,3 +41,4 @@ After a successful first week learning Astro, I decided to try some more. I wrot
 ## Had a good chat with clay re: good day.
 
 ## Working on Typescript again.
+## Doing scrimba in the mornings, it's so fun.
