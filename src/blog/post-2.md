@@ -44,3 +44,4 @@ After a successful first week learning Astro, I decided to try some more. I wrot
 ## Doing scrimba in the mornings, it's so fun.
 
 ## The weekend. So happy.
+## Great day yesterday.
