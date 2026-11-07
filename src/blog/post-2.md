@@ -45,3 +45,5 @@ After a successful first week learning Astro, I decided to try some more. I wrot
 
 ## The weekend. So happy.
 ## Great day yesterday.
+
+## Went to Daikanyama and Nakameguro.
