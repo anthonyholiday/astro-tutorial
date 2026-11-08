@@ -13,37 +13,4 @@ After a successful first week learning Astro, I decided to try some more. I wrot
 
 ## Kyoto this weekend!
 
-## Updated pricing on Sitka site. Woul be great to get more work for Diem.
-
-## Kyoto today!
-
-## Worked a bit in Kyoto last night, now 2x days in Kyoto to explore. Stkoed.g
-
-## Spent the day aexploring Kyoto.
-
-## Back from Kyoto last night. Tired but, nice to be home.
-
-## Feeling a bit under the weather, slept in a lot.
-
-## Been working a lot this week, sent emails to past clients about migrating their sites.
-
-## Slept terrible. So tired.
-
-## Maybe Kamekochi this weekend?
-## Going to Nagano this weekend.
-
-## At the onsen, so great.
-
-## Back in Tokyo, wish we could've stayed one more night.
-
-## Feeling rested from our trip over the weekend
-
-## Had a good chat with clay re: good day.
-
-## Working on Typescript again.
-## Doing scrimba in the mornings, it's so fun.
-
-## The weekend. So happy.
-## Great day yesterday.
-
-## Went to Daikanyama and Nakameguro.
+## Tokyo City Flea Market yday, also exploring Roppongi and goign for dinner in Harajuku.
