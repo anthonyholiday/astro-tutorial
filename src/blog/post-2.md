@@ -16,3 +16,5 @@ After a successful first week learning Astro, I decided to try some more. I wrot
 ## Tokyo City Flea Market yday, also exploring Roppongi and goign for dinner in Harajuku.
 
 ## Trying to get my life osrted for the next chapter. I'm getting tired of travelling.
+
+## Feeling kind of down lately. Not usre what it is. Maybe prpose, feelnig left out?
