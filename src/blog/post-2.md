@@ -18,3 +18,5 @@ After a successful first week learning Astro, I decided to try some more. I wrot
 ## Trying to get my life osrted for the next chapter. I'm getting tired of travelling.
 
 ## Feeling kind of down lately. Not usre what it is. Maybe prpose, feelnig left out?
+
+## Feeling better today. We booked Osaka for Thanksgiving. SToked. Also the Ritz.
