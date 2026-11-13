@@ -22,3 +22,5 @@ After a successful first week learning Astro, I decided to try some more. I wrot
 ## Feeling better today. We booked Osaka for Thanksgiving. SToked. Also the Ritz.
 
 ## 3 day weekend, so stoked.
+
+## Great day exploring yesterday. WEnt to Kagurazak and to Ueno. Finally had a good burger.
