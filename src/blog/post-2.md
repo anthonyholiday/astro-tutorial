@@ -20,3 +20,5 @@ After a successful first week learning Astro, I decided to try some more. I wrot
 ## Feeling kind of down lately. Not usre what it is. Maybe prpose, feelnig left out?
 
 ## Feeling better today. We booked Osaka for Thanksgiving. SToked. Also the Ritz.
+
+## 3 day weekend, so stoked.
