@@ -26,3 +26,5 @@ After a successful first week learning Astro, I decided to try some more. I wrot
 ## Great day exploring yesterday. WEnt to Kagurazak and to Ueno. Finally had a good burger.
 
 ## Kind of a shopping day. Went to get our glasses from JINS finally, then also went to A&F, and Ebisu. The pizza was unreal.
+
+## Our last day off yday before the new week. Shopped more, think we'll get a pair of Japan Blue JEans each.
