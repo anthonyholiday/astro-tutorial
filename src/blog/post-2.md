@@ -13,20 +13,4 @@ After a successful first week learning Astro, I decided to try some more. I wrot
 
 ## Kyoto this weekend!
 
-## Tokyo City Flea Market yday, also exploring Roppongi and goign for dinner in Harajuku.
-
-## Trying to get my life osrted for the next chapter. I'm getting tired of travelling.
-
-## Feeling kind of down lately. Not usre what it is. Maybe prpose, feelnig left out?
-
-## Feeling better today. We booked Osaka for Thanksgiving. SToked. Also the Ritz.
-
-## 3 day weekend, so stoked.
-
-## Great day exploring yesterday. WEnt to Kagurazak and to Ueno. Finally had a good burger.
-
-## Kind of a shopping day. Went to get our glasses from JINS finally, then also went to A&F, and Ebisu. The pizza was unreal.
-
-## Our last day off yday before the new week. Shopped more, think we'll get a pair of Japan Blue JEans each.
-
-## New jeans acquired.
+## Need to ship my socks this wekeend.
