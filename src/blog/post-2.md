@@ -14,3 +14,5 @@ After a successful first week learning Astro, I decided to try some more. I wrot
 ## Kyoto this weekend!
 
 ## Need to ship my socks this wekeend.
+
+## Little life admin stuff done. Shipping DT socks and also getting a paper shredder.
