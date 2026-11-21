@@ -18,3 +18,5 @@ After a successful first week learning Astro, I decided to try some more. I wrot
 ## Little life admin stuff done. Shipping DT socks and also getting a paper shredder.
 
 ## Hiking this weekend.
+
+## Just got back from hiking, great day.
