@@ -22,3 +22,4 @@ After a successful first week learning Astro, I decided to try some more. I wrot
 ## Just got back from hiking, great day.
 
 ## Hurt my left kneed.
+## Day out in Kichijoji.
