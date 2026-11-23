@@ -23,3 +23,5 @@ After a successful first week learning Astro, I decided to try some more. I wrot
 
 ## Hurt my left kneed.
 ## Day out in Kichijoji.
+
+## Went to Christmas market in Roppongi.
