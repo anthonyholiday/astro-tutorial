@@ -25,3 +25,5 @@ After a successful first week learning Astro, I decided to try some more. I wrot
 ## Day out in Kichijoji.
 
 ## Went to Christmas market in Roppongi.
+
+## Osaka tomorrow!! Excited
