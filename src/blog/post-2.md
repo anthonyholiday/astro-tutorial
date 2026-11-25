@@ -27,3 +27,5 @@ After a successful first week learning Astro, I decided to try some more. I wrot
 ## Went to Christmas market in Roppongi.
 
 ## Osaka tomorrow!! Excited
+
+## Slept good, nice weather today too!
