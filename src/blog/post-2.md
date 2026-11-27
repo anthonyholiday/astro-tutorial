@@ -11,21 +11,6 @@ tags: ["astro", "blogging", "learning in public", "successes", "no code"]
 ---
 After a successful first week learning Astro, I decided to try some more. I wrote and imported a small component from memory!
 
-## Kyoto this weekend!
+## First full day in Osaka today! Burger!
 
-## Need to ship my socks this wekeend.
-
-## Little life admin stuff done. Shipping DT socks and also getting a paper shredder.
-
-## Hiking this weekend.
-
-## Just got back from hiking, great day.
-
-## Hurt my left kneed.
-## Day out in Kichijoji.
-
-## Went to Christmas market in Roppongi.
-
-## Osaka tomorrow!! Excited
-
-## Slept good, nice weather today too!
+## 
