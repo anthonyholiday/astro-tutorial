@@ -13,4 +13,4 @@ After a successful first week learning Astro, I decided to try some more. I wrot
 
 ## First full day in Osaka today! Burger!
 
-## 
+## Had wagyu burger and sake last night. Good! Tnt omakase
